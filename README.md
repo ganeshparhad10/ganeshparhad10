@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ganeshparhad10
+- A Frontend Web Developer 
 - 👀 I’m interested in Web Development,Machine Learning & Deep Learning.
 - 🌱 I’m currently learning JavaScript, NodeJs, React.
 
