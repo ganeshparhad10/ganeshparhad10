@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ganesh-Parhad10
-- A Frontend Web Developer 
+- Java Full Stack Developer
+- Springboot, Hibernet,Srpring MVC, MySql.
 - 👀 I’m interested in Web Development,Machine Learning & Deep Learning.
-- 🌱 I’m currently learning JavaScript, NodeJs, React.
+- 🌱 I’m currently learning JavaScript, NodeJs, React, AngularJS.
 
 
 <!---
