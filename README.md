@@ -3,6 +3,7 @@
 - Springboot, Hibernet,Srpring MVC, MySql.
 - 👀 I’m interested in Web Development,Machine Learning & Deep Learning.
 - 🌱 I’m currently learning JavaScript, NodeJs, React, AngularJS.
+- https://ganeshparhad10.github.io/Portfolio-Angular/
 
 
 <!---
