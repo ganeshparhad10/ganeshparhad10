@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ganesh-Parhad10
 - Java Full Stack Developer
 - Springboot, Hibernet,Srpring MVC, MySql.
-- 👀 I’m interested in UI/UX, Web Development, Machine Learning & Deep Learning.
-- 🌱 I’m currently learning JavaScript, NodeJs, React, Angular.
+- 👀 I’m interested in UI/UX, Frontend Development, Backend Developement, Machine Learning & Deep Learning.
+- 🌱 I’m currently learnig JavaScript, NodeJs, React.
 - https://ganeshparhad10.github.io/Portfolio-Angular/
 
 
